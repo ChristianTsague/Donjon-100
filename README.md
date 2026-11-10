@@ -3,6 +3,7 @@
 > **100 salles, un donjon.** Chaque salle est un mini-projet pratique en systèmes,
 > réseaux et cybersécurité. Je les franchis un par un, en public, en apprenant
 > en produisant. Bienvenue dans ma partie.
+> vous retrouverez le catalogue complet des 100 salles juste en haut
 
 ![Progression](https://img.shields.io/badge/Donjon-1%2F100_salles_franchies-red)
 ![Focus](https://img.shields.io/badge/Stack-Linux_%7C_R%C3%A9seaux_%7C_Cybers%C3%A9curit%C3%A9-blue)

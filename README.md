@@ -46,13 +46,24 @@
  | 10 | Maître du donjon | Box vulnérable communautaire | 🔲 |
 
 ### Module 2 — La station mobile (TP 11-20)
-*(à dérouler au fur et à mesure)*
+ | #  | Salle | Thème | Statut |
+ |--- |-------|-------|--------|
+ | 11 | Know Thy Machine | Téléphone → station technique |🔲 |
+ | 12 | Cartographe de Poche | Scan de réseau (nmap) | 🔲 |
+ | 13 | L'Inventaire | Inventaire des services | 🔲 |
+ | 14 | Clés en Main | Durcissement SSH| 🔲 |
+ | 15 | Serveur de Poche| Serveur web local | 🔲|
+ | 16 | Col Porter | Transferts de fichiers | 🔲 |
+ | 17 | Vigie Distant | Supervision à distance | 🔲 |
+ | 18 | Trafic MobileMini-shell | Analyse du trafic du téléphone | 🔲 |
+ | 19 | [Le Censeur](https://github.com/ChristianTsague/DHCP-DNS) | DNS BIND9 avec filtrage | ✅ |
+ | 20 | [Le Duel des Passerelles](https://github.com/ChristianTsague/Relay-DHCP) | Conflit DHCP volontaire | ✅ |
 
 ## 📈 Progression
 
-**Salles franchies : 2 / 100**
+**Salles franchies : 5 / 100**
 
-`▓▓░░░░░░░░░░░░░░░░░░░ 2%`
+`▓▓░░░░░░░░░░░░░░░░░░░ 5%`
 
 ## 📮 Me suivre
 

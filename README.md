@@ -39,7 +39,7 @@
  | 03 | L'œil du réseau | Wireshark, TCP/IP | 🔲 |
  | 04 | Le mur | pfSense, DMZ | 🔲 |
  | 05 | [Le piège](https://github.com/ChristianTsague/HONEYPOD-SIEM) | Honeypot Cowrie | ✅ |
- | 06 | [La tour de guet](https://github.com/ChristianTsague/HONEYPOD-SIEM) | SOC : Wazuh + Suricata | 🔲 |
+ | 06 | [La tour de guet](https://github.com/ChristianTsague/HONEYPOD-SIEM) | SOC : Wazuh + Suricata | ✅ |
  | 07 | Premier C | Scanner de ports en C | 🔲 |
  | 08 | Mini-shell | Programmation système | 🔲 |
  | 09 | Le chat botté | Réponse automatisée | 🔲 |

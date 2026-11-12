@@ -38,7 +38,7 @@
  | 02 | Chasseur d'échecs SSH | Détection de bruteforce | 🔲 |
  | 03 | L'œil du réseau | Wireshark, TCP/IP | 🔲 |
  | 04 | Le mur | pfSense, DMZ | 🔲 |
- | 05 | Le piège | Honeypot Cowrie | 🔲 |
+ | 05 | [Le piège | Honeypot Cowrie](https://github.com/ChristianTsague/HONEYPOD-SIEM) | ✅ |
  | 06 | La tour de guet | SOC : Wazuh + Suricata | 🔲 |
  | 07 | Premier C | Scanner de ports en C | 🔲 |
  | 08 | Mini-shell | Programmation système | 🔲 |
@@ -50,9 +50,9 @@
 
 ## 📈 Progression
 
-**Salles franchies : 1 / 100**
+**Salles franchies : 2 / 100**
 
-`▓░░░░░░░░░░░░░░░░░░░ 1%`
+`▓▓░░░░░░░░░░░░░░░░░░░ 2%`
 
 ## 📮 Me suivre
 
